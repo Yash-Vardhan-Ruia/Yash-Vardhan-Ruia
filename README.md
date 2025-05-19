@@ -69,6 +69,11 @@ me = Student()
 
 - **NoTiFy: Open-Source Notion Alternative**  
   Led the team behind **NoTiFy**, a free and open-source web app alternative to Notion. Designed and implemented the backend system using **Firebase**.
+  
+- **Early Flood Prediction Model**  
+  Developed a deep learning model for early flood prediction using CataBoost, ANN architectures, achieving an accuracy of **99.3%**.
+
+  
 
 ---
 
@@ -76,8 +81,7 @@ me = Student()
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-vardhan-ruia)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Yash-Vardhan-Ruia)
-
+[![Instagram](https://www.instagram.com/yash_vardhan_ruia?igsh=OHk0MzVkeDZ1Nmkz)
 ---
 
 > "✨ Arise, awake, and stop not until the goal is achieved." - Swami Vivekananda
-``` 
