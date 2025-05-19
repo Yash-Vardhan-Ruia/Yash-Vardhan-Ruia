@@ -81,7 +81,6 @@ me = Student()
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-vardhan-ruia)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Yash-Vardhan-Ruia)
-[![Instagram](https://www.instagram.com/yash_vardhan_ruia?igsh=OHk0MzVkeDZ1Nmkz)
 ---
 
 > "✨ Arise, awake, and stop not until the goal is achieved." - Swami Vivekananda
